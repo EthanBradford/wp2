@@ -1,1 +1,1 @@
-# wp2
+# wordpress2
